@@ -1,0 +1,32 @@
+html,
+body {
+    height: 100%;
+}
+
+.text_box {
+    width: 50%;
+    height: 100%;
+    border: 1px solid rgb(217, 255, 0);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#container{
+    width: 100%;
+    height: 70%;
+    background-color: rgb(68, 91, 222);
+    display: flex;
+    margin: 0 auto;
+}
+
+#undo{
+    margin:auto;
+    display:block;
+}
+
+
+#clear{
+    margin:auto;
+    display:block;
+}
